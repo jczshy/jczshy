@@ -1,2 +1,0 @@
-# jczshy
-wisdom_data
